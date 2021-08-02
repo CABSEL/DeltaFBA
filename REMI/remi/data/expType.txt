@@ -1,8 +1,0 @@
-pgm.mat
-pgi.mat
-gapC.mat
-zwf.mat
-rpe.mat
-wt5.mat
-wt7.mat
-
